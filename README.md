@@ -55,4 +55,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Video
 
-Here is a short video of a demo of the assignment: https://drive.google.com/file/d/1KQL2PFyceKEY5KfajlwD589QI4zQk4II/view?usp=sharing
+Here is a short video of a demo of the assignment: https://drive.google.com/file/d/19G7MDVQcVscMivCYCwP5tJx75gR6xX_H/view?usp=sharing
