@@ -1,4 +1,4 @@
-# Frontend Web Development Assessment
+# SlingShot Frontend Web Development Assessment
 
 In this assignment, I was tasked to develop a landing page using any modern framework (React, Next, Vue, Angular) for recently incubated YC startups. I chose Momentus as the startup I would create the page for and I used React to create it. I also utilized Heroku to host the website.
 
