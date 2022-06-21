@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# Frontend Web Development Assessment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Link to website: https://salty-fjord-38580.herokuapp.com/
 
 ## Available Scripts
 
