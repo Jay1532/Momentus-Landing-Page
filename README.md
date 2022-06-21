@@ -6,7 +6,13 @@ Link to website: https://salty-fjord-38580.herokuapp.com/
 
 ## Documentation On How To Install And Set Up The Website Locally
 
-In the project directory, you can run:
+### `git clone https://github.com/Jay1532/Momentus-Landing-Page.git`
+
+This allows you to close this repository
+
+### `npm install`
+
+This allows you to instal the necessary NPM packages
 
 ### `npm start`
 
