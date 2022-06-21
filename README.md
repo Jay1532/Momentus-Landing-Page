@@ -4,7 +4,7 @@ In this assignment, I was tasked to develop a landing page using any modern fram
 
 Link to website: https://salty-fjord-38580.herokuapp.com/
 
-## Available Scripts
+## Documentation On How To Install And Set Up The Website Locally
 
 In the project directory, you can run:
 
